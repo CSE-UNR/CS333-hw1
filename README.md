@@ -1,15 +1,28 @@
 # Homework 1
+Hit me!
+## Project Goals
+The goal of this project is to:
+1. Review basic Object Oriented Principles
+2. Allow students to explore using the Python programming language
 
-Party on!
+## Program
+Implement a *simple* Black Jack game. Play should occur based on the following rules: https://bicyclecards.com/how-to-play/blackjack/.
 
-### Problem            
+### Requirements
+The game only needs to accommodate one player. There should be a "dealer" following the Dealer's Play rules. Your code should be modular and follow Object Oriented best practices.
 
-- Implement a simple car class for Wayne’s ford pinto and a bicycle class for  Garth’s BMX bike.  Create constructors for each class. Use a file with a main method to instantiate/test each class. 
+Betting is not necessary, nor is a fancy UI (although you can implement them if you want). A person should be dealt cards according to the rules of the game, and they should be able to progress through a hand until they've won or loss. They should be able to play multiple hands until they choose to quit the game.
 
-- Think of a set of useful properties (color? name?) for each class. Should these properties be private or public? implement getters and setter when appropriate. 
-
-- Think of a set of useful methods (start()? pedal()?) for each class. 
-
--  Sometimes classes are composed with entities that are not expressible using Python data type (e.g. integer, string).  For example, a car and bike both have wheels or a car has an engine. Create classes for each entity and use composition to add them to your car or bicycle class. You may use the same wheel class for cars and bikes. 
-
-- Abstract both classes into a vehicle class. Should this class be abstract or not? Figure out what methods and properties should go in the vehicle class and what should stay in the car and bicycle class.
+## Submission details
+To submit your project, you will have to use git on your VirtualBox installation:
+1.	After accepting the assignment invitation, copy the clone URL
+2.	Type 
+```git clone clone URL```
+3.	cd into your new assignment directory
+4.	After working on your files
+5.	When you’re ready, type the following commands: 
+```
+git add .
+git commit -m “your commit message”
+git push
+```
