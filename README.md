@@ -6,10 +6,10 @@ The goal of this project is to:
 2. Allow students to explore using the Python programming language
 
 ## Program
-Implement a *simple* Black Jack game. Play should occur based on the following rules: https://bicyclecards.com/how-to-play/blackjack/.
+A *simple* Black Jack game: play should occur based on the following rules https://bicyclecards.com/how-to-play/blackjack/.
 
 ### Requirements
-The game only needs to accommodate one player. There should be a "dealer" following the Dealer's Play rules. Your code should be modular and follow Object Oriented best practices.
+Implement a Black Jack game which only needs to accommodate one player. There should be a "dealer" following the Dealer's Play rules. Your code should be modular and follow Object Oriented best practices.
 
 Betting is not necessary, nor is a fancy UI (although you can implement them if you want). A person should be dealt cards according to the rules of the game, and they should be able to progress through a hand until they've won or loss. They should be able to play multiple hands until they choose to quit the game.
 
