@@ -1,20 +1,18 @@
 # Homework 1
-Hit me!
+Not 302 again!  
 ## Project Goals
 The goal of this project is to:
 1. Review basic Object Oriented Principles
 2. Allow students to explore using the Python programming language
 
 ## Program
-A *simple* Black Jack game: play should occur based on the following rules https://bicyclecards.com/how-to-play/blackjack/.
+Create a library of data structures.
 
-### Game Requirements
-Implement a Black Jack game which only needs to accommodate one player. There should be a "dealer" following the Dealer's Play rules. Your code should be modular and follow best Object Oriented Programming practices.
-
-Betting is not necessary, nor is a fancy UI (although you can implement them if you want). A player should be dealt cards according to the rules of the game, and they should be able to progress through a hand until they've won or loss. They should be able to play multiple hands until they choose to quit the game.
+### Library Requirements
+Your library should include a List, a Queue, and a Stack data structure. A main driver is not necessary.
 
 ### Testing Requirements
-Create a suite of unit tests for your Black Jack game providing at least 70% coverage (more is not necessarily better).
+Create a suite of unit tests for your library which provides maximum coverage.
 
 ## Submission details
 To submit your project, you will have to use git on your VirtualBox installation:
