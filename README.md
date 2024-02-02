@@ -6,13 +6,13 @@ The goal of this project is to:
 2. Allow students to explore using the Python programming language
 
 ## Program
-Create a library of data structures.
+Create a Python [package](https://realpython.com/lessons/scripts-modules-packages-and-libraries/) of data structures.
 
-### Library Requirements
-Your library should include a List, a Queue, and a Stack data structure. A main driver is not necessary.
+### Package Requirements
+Your package should include a List, a Queue, and a Stack data structure. A main driver is not necessary.
 
 ### Testing Requirements
-Create a suite of unit tests for your library which provides maximum coverage.
+Create a suite of unit tests for your package which provides maximum coverage.
 
 ## Submission details
 To submit your project, you will have to use git on your VirtualBox installation:
