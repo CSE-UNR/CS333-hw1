@@ -11,9 +11,11 @@ The goal of this project is to:
 Create a Python [package](https://realpython.com/lessons/scripts-modules-packages-and-libraries/) of data structures.
 
 ### Package Requirements
-Your package should include a List, a Queue, and a Stack data structure. A main driver is not necessary.
-
-Do not use existing Python library functions, lists, queues, or stacks. Do not copy/paste code from any outside source.
+Your package should include a List, a Queue, and a Stack data structure. A main driver is not necessary. 
+- Implement the standard functions for each abstract data type
+  - You can find a list of functions for each here: https://www.geeksforgeeks.org/abstract-data-types/
+- Implement these from scratch; do not use existing Python library functions or data structures.
+- Do not copy/paste code from any outside source.
 
 ### Testing Requirements
 Create a suite of unit tests for your package which provides maximum coverage.
